@@ -1,3 +1,7 @@
+/*
+Shaker sort (cocktail sort, shake sort) is a stable sorting algorithm with quadratic asymptotic complexity O(n^{2}).
+Shakersort is a bidirectional version of bubble sort.
+*/
 #include <stdio.h>
 
 void swap(int *a, int *b){
